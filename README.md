@@ -2,7 +2,7 @@
 
 FBShareView是一个很简单的通用分享界面。
 
-####无须接入第三方平台SDK，支持分享文字、链接、图片、视频等，支持WhatsApp、Facebook、Twitter、Instagram、Snapchat、wechat、more等平台。
+#### 无须接入第三方平台SDK，支持分享文字、链接、图片、视频等，支持WhatsApp、Facebook、Twitter、Instagram、Snapchat、wechat、more等平台。
 
 示例图：
 
